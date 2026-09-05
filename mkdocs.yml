@@ -89,7 +89,9 @@ nav:
   - Welcome: welcome.md
   - Lab:
       - Overview: overview.md
-      - Lab 1 - Getting Started: lab1_getting_started.md
+      - Lab 1 - lab1 : Excercise1.md
+      - Lab 2 - lab2 : Excercise2.md
+      - Lab 3 - lab3 : Excercise3.md
       - Conclusion: conclusion.md
   - Topologies: topologies.md
   - How to use this guide:
