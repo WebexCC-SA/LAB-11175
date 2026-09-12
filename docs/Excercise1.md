@@ -58,7 +58,7 @@ In this lab, participants will learn to:
   
 - For this lab, let's add FAQ content specific to buying a car. Download the word doc from the link below.
  
-  [Car FAQ](https://raw.githubusercontent.com/anujbhatiaminer82/Test2/main/carfaq.docx)")
+  [Car FAQ](https://raw.githubusercontent.com/anujbhatiaminer82/Test2/main/carfaq.docx)
 
 - Select Upload Files option
 
