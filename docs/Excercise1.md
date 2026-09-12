@@ -166,11 +166,11 @@ In this lab, participants will learn to:
 
 - Now it's time to test the AI agent. Quick way to check if the agent is constructing and answering queries correctly is to use the Preview option.
 
-      ![Nav](./assets/Excercise4_18.png){ width="300" }
+      ![Nav](./assets/Excercise4_18_1.png){ width="300" }
 
 - Click the "Preview" button , a chat window appears in the bottom right corner of the pane where questions can be entered. Choose **Start a chat** option
 
-      ![Nav](./assets/Excercise4_19.png){ width="300" }
+      ![Nav](./assets/Excercise4_18_2.png){ width="300" }
 
 - To test in this example, we pose the question **"What warranty comes with the vehicle?"**
   
