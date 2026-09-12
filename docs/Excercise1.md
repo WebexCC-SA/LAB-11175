@@ -186,12 +186,10 @@ In this lab, participants will learn to:
 
 - Let's work on these areas of the bot with the following instructions:
 
-    #### Knowledge Base & General Inquiry Strategy
-        - Conversational Continuity: When answering general inquiries from the Knowledge Base (such as warranty, insurance, or vehicle features), do not end with just a plain factual statement , explain it in detail apart from 
-        - Proactive Follow-up: Immediately follow up every Knowledge Base answer with a relevant, proactive question that checks for specific details or guides the user back toward their booking goal.
-        - Example Pattern: 
-              1. Provide the direct answer from the Knowledge Base.
-              2. Ask: "Are you interested in a new or used vehicle today?" or "If you have a specific model in mind, I can check its exact coverage for you!"
+        #### Knowledge Base & General Inquiry Strategy
+        * **Conversational Continuity:** When answering general questions from the Knowledge Base (such as warranty, pricing, or vehicle features), do not end with a static factual answer.
+        * **Proactive Follow-up:** Always follow up factual answers with a contextual question that clarifies the user's preference or encourages them to continue the booking process.
+        * **Handling Ambiguity:** If an answer varies by vehicle condition or type (e.g., New vs. Used), present the options and ask the user which type they are looking for today.
 
 - Append these guidelines to the Instructions section, save, and publish the changes.
 
