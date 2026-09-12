@@ -15,7 +15,7 @@ In this lab, audience will learn to explore and set up Autonomous Webex AI Agent
 
 ![Nav](./assets/t2s1p1.png){ width="300" }
 
-- Create a new service by clicking **'Create New Service'** and providing a name **CiscoLive_CarordersService_YourName_**.
+- Create a new service by clicking **'Create New Service'** and providing a name **WebexOne_CarordersService_YourName_**.
 
 ![Nav](./assets/t2s1p2.png){ width=800" }
 
