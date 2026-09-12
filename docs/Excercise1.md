@@ -178,23 +178,30 @@ In this lab, participants will learn to:
 
       ![Nav](./assets/Excercise4_20.png){ width="350" }
 
-- The instruction section in profile tab of the AI agent helps refine it to be more sophisticated and behave in the manner that the business dictates.
+- However, the bot's response sounds like a generic FAQ retrieval engine and is not very realistic.
 
-- In this example, let's work on these three areas of the bot with the following instructions:
+- To make it sound more like a realistic, proactive customer service agent, the instructions should guide it to acknowledge context and offer logical next steps.
 
-    - **Tone and Demeanor**: Be polite, as the client is important.
-    - **Role Definition**: Answer the question in no more than 50 words.
-    - **Response Guidelines**: Thank the user for their interest and business.
+- The instruction section in the profile tab of the AI agent helps refine it to be more sophisticated and behave in the manner that the business dictates.
+
+- Let's work on these areas of the bot with the following instructions:
+
+    #### Knowledge Base & General Inquiry Strategy
+        - Conversational Continuity: When answering general inquiries from the Knowledge Base (such as warranty, insurance, or vehicle features), do not end with just a plain factual statement , explain it in detail apart from 
+        - Proactive Follow-up: Immediately follow up every Knowledge Base answer with a relevant, proactive question that checks for specific details or guides the user back toward their booking goal.
+        - Example Pattern: 
+              1. Provide the direct answer from the Knowledge Base.
+              2. Ask: "Are you interested in a new or used vehicle today?" or "If you have a specific model in mind, I can check its exact coverage for you!"
 
 - Append these guidelines to the Instructions section, save, and publish the changes.
 
-      ![Nav](./assets/Excercise4_21.png){ width="700" }
+      ![Nav](./assets/Excercise4_20_2.png){ width="700" }
 
 - To test, pose the same question: **"What warranty comes with the vehicle?"**
 
-- As the Role Definition dictated answering within 50 words, you will see the answer within that limit.
+- As the instructions have been modified with the General Inquiry Strategy, you will see the difference in the response.
 
-      ![Nav](./assets/Excercise4_22.png){ width="350" }
+      ![Nav](./assets/Excercise4_22_1.png){ width="350" }
 
 - You can now view the details of these sessions and the history of configuration changes performed on the AI agent through the Sessions section. 
 
