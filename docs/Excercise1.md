@@ -235,4 +235,4 @@ In this lab, participants will learn to:
 - Please review this information at your convenience.
 
 # Result
-- Congratulations on finishing the lab! Now, let's dive into the next exercise to enhance this agent so it can perform actions.
+- Congratulations !!! on finishing the lab! Now, let's dive into the next exercise to enhance this agent so it can perform actions.
