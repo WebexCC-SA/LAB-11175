@@ -135,7 +135,7 @@ Provide orderid after a successful order.
 
 - In Fulfillment section, select the service you created in the previous task under **'Select service'** and the flow created above under **'Select a flow'**.
 
-![Nav](./assets/t2s1ap3a.png){ width="500" }
+![Nav](./assets/t2s1ap3a_1.png){ width="500" }
 
 - Click **'Add'** and **Publish** the changes. 
 
