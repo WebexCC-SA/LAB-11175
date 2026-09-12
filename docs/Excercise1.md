@@ -92,10 +92,6 @@ In this lab, participants will learn to:
 
 !!! Note
        This is essential information for Cisco TAC team to analyze and troubleshoot any issues that may have caused the upload to fail. 
-  
-- Now, it's time to create the AI agent itself.
-
-- On the Dashboard navigate to **AI Agents** Section.
 
       ![Nav](./assets/Excercise4_9.png){ width="200" }
 
@@ -139,11 +135,24 @@ In this lab, participants will learn to:
       ![Nav](./assets/Excercise4_15.png){ width="700" }
       
 
-- 
+- Now navigate to the Instructions section. This section tells the AI agent who it is, what steps to follow, what actions it can take, and how to handle customer responses using clear, organized rules.
 
-- Now, Lets map the AI agent with the Knowledge base that was created.
-  
-- Navigate to Knowledge tab and choose the configured knowledge base from the drop-down list.
+- For reference, here are the basic instructions you can add for the AI agent to fulfill its goal and task:
+    - **Gather Information**: Ask the user for all necessary details required to complete the booking (e.g., pickup/drop-off locations, dates, and vehicle preference) if they haven't provided them already.
+    - **Summarize & Confirm**: Before triggering the booking action, clearly summarize all booking details back to the user and ask: "Does this look correct to you?"
+    - **Handle Edits**: If the user corrects any information during confirmation, update the details and re-confirm before proceeding.
+    - **Execute Action**: Once the user explicitly confirms the summary, call [action_name] to finalize the booking.
+    - **Close the Conversation**: Upon successful booking execution, thank the user for their business, provide any confirmation reference returned by [action_name], and offer a polite goodbye.
+
+- Copy and paste these details into the Instructions section.
+
+- The Instructions section also offers an Optimize Instructions option, which helps create and refine instructions by using AI tools to turn basic ideas or existing text into clear, well-structured prompts.
+
+- Click Optimize Instructions and review the output. If the optimized instructions look better, accept and save the changes.
+
+- The AI agent also needs a knowledge base to guide customers on vehicles and the ordering process. To set this up, map the AI agent to the knowledge base created previously.
+
+- Navigate to the Knowledge tab and select your configured knowledge base from the drop-down list.
 
       ![Nav](./assets/Excercise4_16.png){ width="600" }
 
