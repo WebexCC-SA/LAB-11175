@@ -50,7 +50,7 @@ In this lab, participants will learn to:
 
       ![Nav](./assets/Excercise4_3.png){ width="300" }
 
-- On the Create Knowledge Base page, enter the knowledge base name as **CiscoLive_KB_YourName**.
+- On the Create Knowledge Base page, enter the knowledge base name as **WebexOne_KB_YourName**.
 
 - Click Create. The system creates a knowledge base with the specified name.
 
@@ -58,7 +58,7 @@ In this lab, participants will learn to:
   
 - For this lab, let's add FAQ content specific to buying a car. Download the word doc from the link below.
  
-  [Buying Car FAQ](https://github.com/anujbhatiaminer82/Test2/blob/main/Buyingcarfaq.docx "download")
+  [Car FAQ](https://raw.githubusercontent.com/anujbhatiaminer82/Test2/main/carfaq.docx)")
 
 - Select Upload Files option
 
