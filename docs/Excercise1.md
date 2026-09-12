@@ -113,14 +113,14 @@ In this lab, participants will learn to:
     - **AI engine**: Select the required AI engine from the drop-down list , Recommendation is **Webex AI Pro-US 2.0**  (default its Webex AI Pro 2.0 ).
     - Click Create button at the bottom of the screen.
 
-      ![Nav](./assets/Excercise4_13.png){ width="500" }
+      ![Nav](./assets/Excercise4_13_1.png){ width="500" }
 
 !!! Note
         Create button is grayed out until all fields are populated.      
   
 - The autonomous AI agent for answering questions is successfully created and is now available on the Dashboard.
 
-      ![Nav](./assets/Excercise4_14.png){ width="600" }
+      ![Nav](./assets/Excercise4_14_1.png){ width="600" }
 
 - The Profile tab on the Agent Configuration page, after creation, allows you to change the agent's name or image, the AI engine it uses, and the welcome message displayed when the AI agent is launched.  
 
@@ -130,11 +130,10 @@ In this lab, participants will learn to:
     - **AI engine**: The chosen AI engine is displayed.
     - **AI Transparency**: This setting is used to inform customers that they are interacting with AI before the conversation begins. Please enable the option and add the comment: 
                            "'This call is powered by an AI assistant to help answer your questions faster.'"
-            ![Nav](./assets/Excercise4_15.png){ width="700" }
+            ![Nav](./assets/Excercise4_15_1.png){ width="700" }
     - **Welcome message**: The default welcome message that the AI agent uses to start the interaction.
 
 - Now navigate to the Instructions section. This section tells the AI agent who it is, what steps to follow, what actions it can take, and how to handle customer responses using clear, organized rules.
-
  
 - For reference, here are the basic instructions you can add for the AI agent to fulfill its goal and task:
     - **Gather Information**: Ask the user for all necessary details required to complete the booking (e.g., pickup/drop-off locations, dates, and vehicle preference) if they haven't provided them already.
@@ -143,21 +142,21 @@ In this lab, participants will learn to:
     - **Execute Action**: Once the user explicitly confirms the summary, call [action_name] to finalize the booking.
     - **Close the Conversation**: Upon successful booking execution, thank the user for their business, provide any confirmation reference returned by [action_name], and offer a polite goodbye.
 
-            ![Nav](./assets/Excercise4_15_1.png){ width="700" }
-      
-- Copy and paste these details into the Instructions section.
+   - Copy and paste these details into the Instructions section.
+
+            ![Nav](./assets/Excercise4_15_2.png){ width="700" }
 
 - The Instructions section also offers an Optimize Instructions option, which helps create and refine instructions by using AI tools to turn basic ideas or existing text into clear, well-structured prompts.
 
 - Click Optimize Instructions and review the output. If the optimized instructions look better, accept and save the changes.
 
-            ![Nav](./assets/Excercise4_15_2.png){ width="700" }
+            ![Nav](./assets/Excercise4_15_3.png){ width="700" }
   
 - The AI agent also needs a knowledge base to guide customers on vehicles and the ordering process. To set this up, map the AI agent to the knowledge base created previously.
 
 - Navigate to the Knowledge tab and select your configured knowledge base from the drop-down list.
 
-      ![Nav](./assets/Excercise4_16.png){ width="600" }
+      ![Nav](./assets/Excercise4_16_1.png){ width="600" }
 
 - Click **Save changes** followed by **Publish** to make the AI agent live.
 
