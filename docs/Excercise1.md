@@ -112,10 +112,9 @@ In this lab, participants will learn to:
       ![Nav](./assets/Excercise4_12.png){ width="500" }
 
 - On the 'Add the essential details' specify the following details:
-    - **Agent name**: Enter the name of the AI agent susch as **CiscoLive_YourName**
+    - **Agent name**: Enter the name of the AI agent susch as **WebexOne_YourName**
     - **System ID**: A system-generated unique identifier. This field is editable.
-    - **AI engine**: Select the required AI engine from the drop-down list , Recommendation is **Webex AI Pro-US 1.0**  (default its Webex AI Pro 1.0 ).
-    - **Agent's goal**: Provide a brief description of the AI agent's goal which in this case is to answer queries hence the prompt **"Answer queries about cars"**. 
+    - **AI engine**: Select the required AI engine from the drop-down list , Recommendation is **Webex AI Pro-US 2.0**  (default its Webex AI Pro 2.0 ).
     - Click Create button at the bottom of the screen.
 
       ![Nav](./assets/Excercise4_13.png){ width="500" }
@@ -127,19 +126,20 @@ In this lab, participants will learn to:
 
       ![Nav](./assets/Excercise4_14.png){ width="600" }
 
-- The Profile tab on the Agent Configuration page, after creation, allows you to change the agent's image, the AI engine it uses, its goal, and the welcome message displayed when the AI agent is launched.  
+- The Profile tab on the Agent Configuration page, after creation, allows you to change the agent's name or image, the AI engine it uses, and the welcome message displayed when the AI agent is launched.  
 
-- These are the fields that control these aspects:
+- These are the fields that control the other aspects of the proile section:
     - **URL for agent profile image**: The default URL from which the system fetches the AI agent's logo or image.
     - **Time Zone**: Ensure that it is set to America/Los_Angeles.
     - **AI engine**: The chosen AI engine is displayed.
+    - **AI Transparency**: This setting is used to inform customers that they are interacting with AI before the conversation begins. Please enable the option and add the comment: 
+                           "'This call is powered by an AI assistant to help answer your questions faster.'"
     - **Welcome message**: The default welcome message that the AI agent uses to start the interaction.
-    - **Agent’s Goal**: The goal stated during the creation of the AI Agent is displayed here.
-    - **Instructions**: Select the Insert Example option to populate the default points, then add your desired instructions to make the AI Agent more efficient.
 
       ![Nav](./assets/Excercise4_15.png){ width="700" }
       
-- Save the changes.
+
+- 
 
 - Now, Lets map the AI agent with the Knowledge base that was created.
   
