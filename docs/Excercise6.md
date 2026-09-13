@@ -222,12 +222,11 @@ In this final section, you will run natural language queries across the MCP serv
   "orgId": "f0f2a0a3-218e-4152-841e-09a18b9b17b0",
   "resource": "business-hours"
 }
-
-
-
-> **Note:** **Do not confirm or execute this update.** This step is designed to demonstrate how AI clients handle write operations—requiring explicit human confirmation before committing any administrative changes to the live tenant.
 > 
->
+> 
+
+!!! Note
+	**Do not confirm or execute this update.** This step is designed to demonstrate how AI clients handle write operations—requiring explicit human confirmation before committing any administrative changes to the live tenant.
 
 ## Result
 Congratulations! You have successfully completed this lab. Throughout this module, you learned how to navigate Webex Contact Center MCP servers in the Developer Portal, review organizational and tool authorizations in Control Hub, connect the Cursor AI client using WCIT token authentication, and use natural language to query operational telemetry, inspect routing flows, and execute safe administrative write requests.
