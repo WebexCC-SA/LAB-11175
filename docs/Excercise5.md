@@ -6,7 +6,7 @@ Consider , You are a supervisor managing a small team of 3 to 4 agents in a cust
 
 You don't have time to manually listen to every call, but you know things need to improve. With access to Webex AI Quality Management, you decide to take action using AI-powered assistant features to get to the bottom of what's happening, find out which agents need support, and put a coaching plan in motion.
 
-Your mission unfolds throu through these two modules.
+Your mission unfolds through these two modules.
 
 **Prerequisites**
 
@@ -39,7 +39,7 @@ Your organization must have the required AI Quality Management entitlement.
 
     ![Nav](./assets/1010_Excercise2_3.png){ width="700" }
 
-- To confirm the feature is enabled for your specific queue, go to the Queue Level tab, search for and select queue **CiscoLive_MCPAIAgent_Queue_*Number***, and verify that Sentiment Analysis is enabled.
+- To confirm the feature is enabled for your specific queue, go to the Queue Level tab, search for and select queue **WebexOne_LAB11175_Agent_Queue_N**, and verify that Sentiment Analysis is enabled.
 
 - On the same queue, confirm that Real-time Transcription is enabled — this is required for the AI engine to analyze interactions and generate sentiment scores.
 
@@ -56,7 +56,7 @@ Your organization must have the required AI Quality Management entitlement.
 
     ![Nav](./assets/1010_Excercise2_5.png){ width="300" }
 
-- Click Manage Flows and search for the flow **CiscoLive_MCPAIAgent_Flow_*Number***.
+- Click Manage Flows and search for the flow **ai_agent_autonomous_WebexOne(Name)** setup in the last excercise. 
 
     ![Nav](./assets/1010_Excercise2_6.png){ width="600" }
 
@@ -81,9 +81,8 @@ Your organization must have the required AI Quality Management entitlement.
     ![Nav](./assets/1010_Excercise2_9.1.png){ width="500" }
 
 - Under Interaction Preferance select these options:
-    - For the team use **CiscoLive_MCPAIAgent_Team_N** (where 'N' is your lab user number)'.
-    - For the phone number, select **Dialed Number**
-    - Enter **2032988248** (this is the proctor's number).
+    - For the team use **WebexOne_LAB11175_Agent_Team_N** (where 'N' is your lab user number)'.
+    - For the phone number, select **Desktop**
 
 - Ensure the agent status is set to avaialable.
 
