@@ -1,4 +1,4 @@
-# Task 6 - Configuring Webex Contact Center MCP Integration
+# Task 6 - Connect WxCC to Inhouse CC MCP Servers
 
 Please use the following credentials to connect to Control Hub and configure Webex Contact Center:
 
