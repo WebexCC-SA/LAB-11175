@@ -158,7 +158,7 @@ Provide orderid after a successful order.
 
 - In your case, you will see that the agent is not able to provide the order ID. Specifically asking the agent for the order ID was not helpful either.
 
-![Nav](./assets/t2s3ap6a_1.png){ width="300" }
+![Nav](./assets/t2s3ap6a_1.png){ width="500" }
 
 - To begin, verify the session details to confirm the agent's actions by going into the Agent and Sessions Section.
 
