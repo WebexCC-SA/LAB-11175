@@ -109,5 +109,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 - Once the call is transferred, the logged-in agent can answer it and view the full transcript of all previous interactions between the customer and the AI agent within the Agent Desktop.
 
+![Nav](./assets/t4s1p17a_2.png){ width="400" }
+
 # Result 
 - Congratulations!!! , You have completed this task and the lab!
