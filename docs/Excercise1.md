@@ -1,4 +1,4 @@
-# Excercise 1 - Build Autonomous AI Agents with Knowledge Base
+# Task 1 - Build Autonomous AI Agents with Knowledge Base
 
 **AI Agents Overview**
 
