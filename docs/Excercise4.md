@@ -1,4 +1,4 @@
-# Task 5 - Integrate WxCC with MCP Server
+# Task 5 - Connect WxCC to External MCP Servers
 
 ## **Objective**
 
