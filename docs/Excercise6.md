@@ -1,4 +1,4 @@
-# Task 3 - Exploring WebRTC data and statistics
+# Task 6 - Configuring Webex Contact Center MCP Integration
 
 Please use the following credentials to connect to Control Hub and configure Webex Contact Center:
 
