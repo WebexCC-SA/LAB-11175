@@ -1,6 +1,5 @@
 # Task 3 - Exploring WebRTC data and statistics
 
-
 Please use the following credentials to connect to Control Hub and configure Webex Contact Center:
 
 | <!-- -->         | <!-- -->         |
@@ -9,9 +8,6 @@ Please use the following credentials to connect to Control Hub and configure Web
 | `Username`       | labuser**ID**@wxccciscolive2024.wbx.ai     _(where **ID** is your assigned pod number (06 through 10); i.e. labuser**07**@wxccciscolive2024.wbx.ai if assigned pod is 7))_       |
 | `Password`       | ciscoliveUS24!         |
 
-
-!!! info
-	This task showcases available WebRTC call data and statistics using built-in browser tools and simulates missing audio during the call.
 
 ## **Objective**
 
