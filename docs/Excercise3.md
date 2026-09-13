@@ -1,4 +1,4 @@
-# Lab 3 - Create and Test Voice Flows for Webex AI Agents
+# Task 3 - Create and Test Voice Flows for Webex AI Agents
 
 ## **Objective**
 
