@@ -232,7 +232,7 @@ Your organization must have the required AI Quality Management entitlement.
     ![Nav](./assets/1010_Excercise2_25.png){ width=800" }
 
 !!! Note
-    Ensure that date range selected is from **1st May 2026** onwards to see various call examples. 
+    Ensure that date range selected is from **1st Sept 2026** onwards to see various call examples. 
 
 - Go to the Evaluations tab to review the average evaluation score across all forms assigned to that interaction.
 
