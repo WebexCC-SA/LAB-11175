@@ -72,8 +72,6 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 	- For the Handle Call Using option, select **Dial Number**
  	- For Dial Number use the extension **2032988248** (This is proctor Number)  	
 
-![Nav](./assets/t4s1p14a.1.png){ width="400" }
-
 -  Ensure the agent status is set to avaialable.
 
 - Call the channel number (from the steps above), interact with the Webex AI Agent and order the car and get the order ID. 
