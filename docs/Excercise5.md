@@ -1,4 +1,4 @@
-# Excercise 2 - AI-Powered Quality Management in Webex Contact Center
+# Task 4 - AI-Powered Quality Management in Webex Contact Center
 
 ## **Objective**
 
