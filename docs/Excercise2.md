@@ -146,7 +146,7 @@ Provide orderid after a successful order.
 
 - Click **Preview** and **Start a Chat** to  Verify the functionality by creating a car order. 
 
-      ![Nav](./assets/Excercise4_18.png){ width="300" }
+      ![Nav](./assets/Excercise4_18_1.png){ width="300" }
 
 !!! Note
 	For guidance the screenshot provides an example of how an order is created. 
@@ -158,13 +158,13 @@ Provide orderid after a successful order.
 
 - In your case, you will see that the agent is not able to provide the order ID. Specifically asking the agent for the order ID was not helpful either.
 
-![Nav](./assets/t2s3ap6a.png){ width="300" }
+![Nav](./assets/t2s3ap6a_1.png){ width="300" }
 
 - To begin, verify the session details to confirm the agent's actions by going into the Agent and Sessions Section.
 
 - Choose the latest Session ID. 
 
-![Nav](./assets/t2s3ap4a.png){ width="900" }
+![Nav](./assets/t2s3ap4a_1.png){ width="900" }
 
 - Note that the fulfillment was successful, and information was provided to the Connect Flow for order execution.
 
@@ -204,7 +204,7 @@ Provide orderid after a successful order.
 
 - Create a car order again from Preview chat, and the execution should now be successful with AI agent returning an Order ID.
 
-![Nav](./assets/t2s3ap15a.png){ width="400" }
+![Nav](./assets/t2s3ap15a_1.png){ width="400" }
 
 - You can also access the datastore where these orders are stored and updated by entering the following URL into your browser:
 
