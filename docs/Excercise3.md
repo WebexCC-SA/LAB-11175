@@ -84,7 +84,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 - This could be due to the agent's AI engine. If you notice this issue, you can double check the AI engine is mapped to Webex AI Pro-Us 1.0 in the configured AI Agent Profile and test the call again. 
 
-![Nav](./assets/t4s1p15a.png){ width="700" }
+![Nav](./assets/t4s1p15a_1.png){ width="700" }
 
 - Second you may notice that the Agent may quickly conclude the call without taking an order or completing the transaction. 
 
@@ -94,11 +94,9 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 - In the Flow section of the voice flow you created, select the VirtualAgentV2 node.
 
-![Nav](./assets/t4s1p16a.png){ width="600" }
-
 - Under Advanced Settings, you'll see the timeout is set to 15 seconds.
 
-![Nav](./assets/t4s1p17a.png){ width="400" }
+![Nav](./assets/t4s1p17a_1.png){ width="400" }
 
 - Increase this timeout to 30 seconds and publish the flow.
 
