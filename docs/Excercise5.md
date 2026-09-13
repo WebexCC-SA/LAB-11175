@@ -173,11 +173,11 @@ Your organization must have the required AI Quality Management entitlement.
 
 - Enter a clear name and description for the form.
 
-    ![Nav](./assets/1010_Excercise2_18.png){ width=700" }
+    ![Nav](./assets/1010_Excercise2_18_1.png){ width=700" }
 
 - Feel free to create your own form with questions of your choice for practise
 
-- For reference, review the form already created — **CiscoLive_AIQM_Anuj**
+- For reference, review the form already created — **WebexOne_AIQM_Anuj**
 
 - This form is designed to help understand why customers are escalating to speak to a live agent after placing a car order. The form is divided into the following sections with their respective questions:
 
@@ -204,7 +204,7 @@ Your organization must have the required AI Quality Management entitlement.
 
 - You can assign the form by queue, team, agent, or every nth interaction. More than one assignment policy can be applied to target the right set of interactions.
 
-- For this lab, assign the form to your designated team **CiscoLive_MCPAIAgent_Team_Number** and click Publish to activate the form.
+- For this lab, assign the form to your designated team **WebexOne_LAB11175_Agent_Team_N** and click Publish to activate the form.
 
     ![Nav](./assets/1010_Excercise2_21.png){ width=500" }
 
