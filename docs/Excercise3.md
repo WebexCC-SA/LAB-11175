@@ -18,7 +18,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 ![Nav](./assets/t4s1p3a.png){ width="800" }
 
-- Search for **'AI Agent Autonomous (Package Tracking)'**, aelect and click **'Next'**, provide a flow name (e.g., '_ai_agent_autonomous_CiscoLiveAnuj_'), and click **'Create Flow'**.
+- Search for **'AI Agent Autonomous (Package Tracking)'**, aelect and click **'Next'**, provide a flow name (e.g., '_ai_agent_autonomous_WebecOne<yourname>_'), and click **'Create Flow'**.
 
 ![Nav](./assets/t4s1p4a.png){ width="800" }
 
@@ -26,11 +26,15 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 ![Nav](./assets/t4s1p6a.png){ width="800" }
 
-- Click on the **'QueueContact'** node and select **'CiscoLive_LABCCT1011_Agent_Queue_N'** (where **'N'** is your lab user number).
+- Also enable the radio button **Enable voice Recording** , this allows conversation between virtual agent and customer to be recorded. 
+
+- Click on the **'QueueContact'** node and select **'WebexOne_LAB11175_Agent_Queue_N'** (where **'N'** is your lab user number).
 
 ![Nav](./assets/t4s1p7a.png){ width="800" }
 
-- Click on an empty space in the flow, then on the right-hand side, navigate to **'Global Variables'**. Click on **'Global_VoiceName'**, select edit option (pencil icon), use **'en-US-Jess'** for **'Default Value'**, and click **'Save'**.
+- Click on an empty space in the flow, then on the right-hand side, navigate to **'Global Variables'**.
+
+- Click on **'Global_VoiceName'**, select edit option (pencil icon), use **'en-US-Jess'** for **'Default Value'**, and click **'Save'**.
 
 ![Nav](./assets/t4s1p8a.png){ width="700" }
 
@@ -43,7 +47,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 - Navigate to **'Channels'** menu in the Webex Contact Center configuration.
 
-- Open **CiscoLive_LABCCT1011_EntryPoint_N'** (_where **'N'** is your lab user number)
+- Open **WebexOne_LAB11175_EntryPoint_N'** (_where **'N'** is your lab user number)
 
 ![Nav](./assets/t4s1p10a.png){ width="800" }
 
@@ -64,7 +68,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 ![Nav](./assets/t4s1p13a.png){ width="400" }
   
 - Under Interaction Preferance select these options:
-    - For the team use **CiscoLive_LABCCT1011_Agent_Team_N** (where **'N'** is your lab user number)'.
+    - For the team use **WebexOne_LAB11175_Agent_Team_N** (where **'N'** is your lab user number)'.
 	- For the Handle Call Using option, select **Dial Number**
  	- For Dial Number use the extension **2032988248** (This is proctor Number)  	
 
