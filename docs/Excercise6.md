@@ -80,7 +80,7 @@ As Day 0 setup only needs to be completed once, this shared environment has alre
 
 - In the left-hand navigation pane, go to **Apps**.
 
-    ![Nav](./assets/11175_Excercise6_5.png){ width="500" }
+    ![Nav](./assets/11175_Excercise6_5.png){ width="700" }
 
 - Select **Agentic Apps** from the sub-menu.
 
@@ -92,13 +92,13 @@ As Day 0 setup only needs to be completed once, this shared environment has alre
 
 - On the **General** tab, verify that the **Access** status is set to **Allowed for all users** for the organization.
 
-    ![Nav](./assets/11175_Excercise6_6.png){ width="500" }
+    ![Nav](./assets/11175_Excercise6_6.png){ width="700" }
 
 - Observe that **Authorize automatic server data updates** is enabled to keep server schemas up to date without requiring re-authorization.
 
 - Click the  **Tools** tab within the MCP server panel.
 
-    ![Nav](./assets/11175_Excercise6_7.png){ width="500" }
+    ![Nav](./assets/11175_Excercise6_7.png){ width="700" }
 
 - Review the list of enabled tools permitted for AI client execution
 
