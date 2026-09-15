@@ -30,9 +30,13 @@ In this module, you will step into the role of a Contact Center Solutions Archit
 
 - From the top navigation menu, select **AI in Webex** and opt for  **Webex MCP Servers**
 
+    ![Nav](./assets/11175_Excercise6_1.png){ width="500" }
+
 - Click **Overview** to learn how Webex MCP servers act as a bridge between AI clients and Webex capabilities.
 
 - In the sidebar under **Webex MCP Servers**, click **Contact Center MCP Server**.
+
+    ![Nav](./assets/11175_Excercise6_2.png){ width="500" }
 
 - Review the core capabilities:
 
@@ -40,9 +44,12 @@ In this module, you will step into the role of a Contact Center Solutions Archit
 	* **Authentication & Scopes:** Note the required OAuth scopes (`spark:mcp`, `cjp:config_read`, `cjp:config_write`, `cjp:user`, and `spark:people_read`).
 	* **Tools List:** Scroll to the **Tools** section to inspect functions like `wxcc-list-flows`, `wxcc-get-flow`, `wxcc-save-flow-draft`, and `wxcc-view-config`.
 
-Note: Notice the Server URL that has been costructed , that will ne needed to integrate with the AI client. 
+!!! Note 
+	Notice the Server URL that has been costructed , that will ne needed to integrate with the AI client. 
 
 - In the left sidebar, select **Contact Center Operation MCP Server**.
+
+    ![Nav](./assets/11175_Excercise6_3.png){ width="500" }
 
 -  Review its core capabilities:
 
@@ -55,7 +62,9 @@ Note: Notice the Server URL that has been costructed , that will ne needed to in
 
 - Now, lets explore Client Integration Guides
 
-- On either MCP server documentation page, locate the **Connect Webex MCP Servers to External Clients** section.
+- On MCP server documentation page, locate the **Connect Webex MCP Servers to External Clients** section.
+
+    ![Nav](./assets/11175_Excercise6_4.png){ width="500" }
 
 - Click **Cursor** from the list of supported AI clients.
 
