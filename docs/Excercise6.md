@@ -30,13 +30,13 @@ In this module, you will step into the role of a Contact Center Solutions Archit
 
 - From the top navigation menu, select **AI in Webex** and opt for  **Webex MCP Servers**
 
-    ![Nav](./assets/11175_Excercise6_1.png){ width="500" }
+    ![Nav](./assets/11175_Excercise6_1.png){ width="700" }
 
 - Click **Overview** to learn how Webex MCP servers act as a bridge between AI clients and Webex capabilities.
 
 - In the sidebar under **Webex MCP Servers**, click **Contact Center MCP Server**.
 
-    ![Nav](./assets/11175_Excercise6_2.png){ width="500" }
+    ![Nav](./assets/11175_Excercise6_2.png){ width="200" }
 
 - Review the core capabilities:
 
@@ -49,7 +49,7 @@ In this module, you will step into the role of a Contact Center Solutions Archit
 
 - In the left sidebar, select **Contact Center Operation MCP Server**.
 
-    ![Nav](./assets/11175_Excercise6_3.png){ width="500" }
+    ![Nav](./assets/11175_Excercise6_3.png){ width="200" }
 
 -  Review its core capabilities:
 
@@ -64,7 +64,7 @@ In this module, you will step into the role of a Contact Center Solutions Archit
 
 - On MCP server documentation page, locate the **Connect Webex MCP Servers to External Clients** section.
 
-    ![Nav](./assets/11175_Excercise6_4.png){ width="500" }
+    ![Nav](./assets/11175_Excercise6_4.png){ width="200" }
 
 - Click **Cursor** from the list of supported AI clients.
 
