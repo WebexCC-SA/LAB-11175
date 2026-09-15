@@ -122,11 +122,11 @@ Follow these step-by-step instructions to generate a Webex Client Identity Token
   
 - Under the **Generate WCIT Token** section, click **Generate Token**.
 
-    ![Nav](./assets/11175_Excercise6_8.png){ width="700" }
+    ![Nav](./assets/11175_Excercise6_8.png){ width="500" }
 
 - On the **Manage Webex Agentic MCP App token** page, click **Generate Now**.
 
-    ![Nav](./assets/11175_Excercise6_9.png){ width="700" }
+    ![Nav](./assets/11175_Excercise6_9.png){ width="500" }
 
 - Enter a descriptive token name (e.g., `Cursor-WxCC-Lab-Token_<your-name>`).
 
@@ -145,7 +145,7 @@ Follow these step-by-step instructions to generate a Webex Client Identity Token
 
 - In the **Install** section, enter the following details:
 
-    ![Nav](./assets/11175_Excercise6_10.png){ width="700" }
+    ![Nav](./assets/11175_Excercise6_10.png){ width="500" }
   
 	* **Server Name:** Provide a unique name (e.g., `WxCC_MCP_Server_<your-name>`).
 	* **Server URL:** Go to the **Contact Center MCP Server** documentation section to copy the official endpoint URL:
