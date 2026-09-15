@@ -118,9 +118,15 @@ Follow these step-by-step instructions to generate a Webex Client Identity Token
 
 - Open your browser and navigate to the Cursor integration page on the Webex Developer Portal: [Connect Webex MCP Servers to External Clients (Cursor)](https://developer.webex.com/mcp/docs/webex-agentic-mcp-servers-cursor).
 
-- Verify that you are logged in with your assigned lab account. Under the **Generate WCIT Token** section, click **Generate Token**.
+- Verify that you are logged in with your assigned lab account.
+  
+- Under the **Generate WCIT Token** section, click **Generate Token**.
+
+    ![Nav](./assets/11175_Excercise6_8.png){ width="700" }
 
 - On the **Manage Webex Agentic MCP App token** page, click **Generate Now**.
+
+    ![Nav](./assets/11175_Excercise6_9.png){ width="700" }
 
 - Enter a descriptive token name (e.g., `Cursor-WxCC-Lab-Token_<your-name>`).
 
@@ -130,17 +136,21 @@ Follow these step-by-step instructions to generate a Webex Client Identity Token
 
 - Copy the generated token string immediately and save it in a text editor for easy access.
 
-- **Note on Scopes:** WCIT tokens are issued with the baseline `spark:mcp` scope to establish the initial MCP server connection. When a specific tool call requires elevated permissions (such as `cjp:config_read` or `cjp:user`), Cursor automatically requests them at runtime via MCP scope elicitation.
+!!! Note  
+	WCIT tokens are issued with the baseline `spark:mcp` scope to establish the initial MCP server connection. When a specific tool call requires elevated permissions (such as `cjp:config_read` or `cjp:user`), Cursor automatically requests them at runtime via MCP scope elicitation.
 
 - Now, lets Integrate the Contact Center MCP Server in Cursor
 
-- Return to the Cursor integration page on the Webex Developer Portal (`Documentation > AI in Webex > Connect Webex MCP Servers to External Clients > Cursor`).
+- Return to the Cursor integration page on the Webex Developer Portal by navigationg to Documentation > AI in Webex > Connect Webex MCP Servers to External Clients > Cursor.
 
 - In the **Install** section, enter the following details:
+
+    ![Nav](./assets/11175_Excercise6_10.png){ width="700" }
+  
 	* **Server Name:** Provide a unique name (e.g., `WxCC_MCP_Server_<your-name>`).
 	* **Server URL:** Go to the **Contact Center MCP Server** documentation section to copy the official endpoint URL:
-`		[https://agentic-server-platform.produs1.ciscoccservice.com/mcp/webex-contactcenter](https://agentic-server-platform.produs1.ciscoccservice.com/mcp/webex-contactcenter)`
-	* **WCIT Token:** Paste the WCIT token string you generated in Step 1.
+`		[https://agentic-server-platform.produs1.ciscoccservice.com/mcp/webex-contactcenter]
+	* **WCIT Token:** Paste the WCIT token string you generated earlier.
 
 - Under **Click to install for:**, click **Cursor** to automatically register the server in your Cursor application.
 
