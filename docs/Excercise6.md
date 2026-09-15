@@ -171,7 +171,7 @@ Follow these step-by-step instructions to generate a Webex Client Identity Token
 - In the **Install** section, enter the details for the second server (reusing the same WCIT token):
 	* **Server Name:** Provide a unique name (e.g., `WxCC_MCP_Server_Operations_<your-name>`).
 	* **Server URL:** Go to the **Contact Center Operation MCP Server** documentation section and copy its endpoint URL:
-`		[https://developer.webex.com/mcp/docs/contact-center-operation-mcp-server](https://developer.webex.com/mcp/docs/contact-center-operation-mcp-server)`
+`		[https://developer.webex.com/mcp/docs/contact-center-operation-mcp-server]
 	* **WCIT Token:** Paste your saved WCIT token.
 
 - Under **Click to install for:**, click **Cursor** to complete registration.
