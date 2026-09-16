@@ -176,7 +176,7 @@ Follow these step-by-step instructions to generate a Webex Client Identity Token
 
 - Under the MCP Server dropdown, select **WebexCC Operations**.
 
-    ![Nav](./assets/11175_Excercise6_11.png){ width="200" }
+    ![Nav](./assets/11175_Excercise6_11.png){ width="300" }
 
 - Click **Generate Token**.
 
