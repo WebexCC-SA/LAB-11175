@@ -80,15 +80,15 @@ As Day 0 setup only needs to be completed once, this shared environment has alre
 
 - In the left-hand navigation pane, go to **Apps**.
 
-    ![Nav](./assets/11175_Excercise6_5.png){ width="700" }
+    ![Nav](./assets/11175_Excercise6_5_1.png){ width="700" }
 
 - Select **Agentic Apps** from the sub-menu.
 
 - Locate the pre-configured MCP servers in the dashboard list:
-	* **Contact Center MCP Server**
-	* **Contact Center Operation MCP Server**
+	* **Webex Contact Center**
+	* **WebexCC Operations**
 
-- Click on **Contact Center MCP Server** to open its settings drawer.
+- Click on **Webex Contact Center** to open its settings drawer.
 
 - On the **General** tab, verify that the **Access** status is set to **Allowed for all users** for the organization.
 
@@ -96,7 +96,7 @@ As Day 0 setup only needs to be completed once, this shared environment has alre
 
 - Observe that **Authorize automatic server data updates** is enabled to keep server schemas up to date without requiring re-authorization.
 
-- Click the  **Tools** tab within the MCP server panel.
+- Click the **Tools** tab within the MCP server panel.
 
     ![Nav](./assets/11175_Excercise6_7.png){ width="700" }
 
@@ -104,9 +104,9 @@ As Day 0 setup only needs to be completed once, this shared environment has alre
 
 - Confirm that flow authoring and configuration tools (e.g., `wxcc-list-flows`, `wxcc-get-flow`, `wxcc-save-flow-draft`) are active.
 
-- Repeat this review for the **Contact Center Operation MCP Server** to confirm its active status.
+- Repeat this review for the **WebexCC Operations** to confirm its active status.
 
-- Review the list of enabled tools permitted for AI client execution and confirm that reporting and telemetry tools (e.g., `wxcc-operations-describe-org`, `wxcc-operations-list-config`, `wxcc-operations-generate-report`) are active.
+- Review the list of enabled tools permitted for AI client execution and confirm that reporting and telemetry tools (e.g., `describe org`, `list settings for various parameters`, `report parameters`) are active.
 
 - Click **Review** on any tool name to inspect its description, input parameters, and authorized schema definitions.
 
