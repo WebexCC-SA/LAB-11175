@@ -164,7 +164,21 @@ Follow these step-by-step instructions to generate a Webex Client Identity Token
 
 - Confirm that a green active status indicator appears next to the server, verifying that its tools are ready for execution.
 
-- Follow the same steps to Integrate the Contact Center Operation MCP Server in Cursor
+- Follow the same steps to Integrate the Operation MCP Server in Cursor
+
+- Navigate to the Cursor integration page on the Webex Developer Portal: [Connect Webex MCP Servers to External Clients (Cursor)](https://developer.webex.com/mcp/docs/webex-agentic-mcp-servers-cursor).
+
+- Under the **Generate WCIT Token** section, click **Generate Token**.
+
+    ![Nav](./assets/11175_Excercise6_8.png){ width="500" }
+
+- Enter a descriptive token name (e.g., `Cursor-WxCCOperations-Lab-Token_<your-name>`).
+
+- Under the MCP Server dropdown, select **WebexCC Operations**.
+
+    ![Nav](./assets/11175_Excercise6_11.png){ width="500" }
+
+- Click **Generate Token**.
 
 - Return to the Cursor integration page on the Webex Developer Portal.
 
@@ -176,11 +190,15 @@ Follow these step-by-step instructions to generate a Webex Client Identity Token
 
 - Under **Click to install for:**, click **Cursor** to complete registration.
 
+    ![Nav](./assets/11175_Excercise6_12.png){ width="500" }
+
 - To Verify, return to Cursor, click the **+** icon in a new Chat window, and select **MCP Server**.
 
 - Locate `WxCC_MCP_Server_Operations_<your-name>` in the list.
 
 - Confirm that the status indicator displays a green active state, indicating the operations server is connected and ready for query execution.
+
+    ![Nav](./assets/11175_Excercise6_13.png){ width="500" }
 
 ## Section 4: Execute Operations 
 
