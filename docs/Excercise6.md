@@ -233,12 +233,12 @@ In this final section, you will run natural language queries across the MCP serv
 
 - Review the contact center schedule. During your review, you realize that Friday's working hours need to be updated.
 
-    ![Nav](./assets/11175_Excercise6_16.png){ width="500" }
+    ![Nav](./assets/11175_Excercise6_16.png){ width="600" }
 
 - Prompt Cursor to initiate a write operation with the following instruction
 > *"I need to update our business hours schedule to extend support availability by one hour on Fridays. Before writing the updated schedule, please outline all proposed changes and ask for approval."*
 
-    ![Nav](./assets/11175_Excercise6_17.png){ width="500" }
+    ![Nav](./assets/11175_Excercise6_17.png){ width="600" }
 
 - Review the Proposed Change, cursor will invoke `wxcc-admin-config` and present a structured JSON payload detailing the proposed change:
 
