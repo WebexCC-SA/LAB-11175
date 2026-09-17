@@ -211,7 +211,7 @@ In this final section, you will run natural language queries across the MCP serv
 - Enter the following prompt:
 > *"Analyze the contact center reports for the past 24 hours. List the top active entry points and queues by total call volume, identify which flow is handling the highest number of calls, and summarize its average handle time."*
 
-    ![Nav](./assets/11175_Excercise6_14.png){ width="500" }
+    ![Nav](./assets/11175_Excercise6_14.png){ width="600" }
 
 - Behind the Scenes , cursor invokes multiple operational tools like `wxcc-operations-generate-report` or `wxcc-operations-describe-org` to retrieve call session metrics and routing details.
 
@@ -220,7 +220,7 @@ In this final section, you will run natural language queries across the MCP serv
 - Lets inspect the flow details by entering the following prompt to review the details of the flow directly within the AI Chat window:
 > *"Fetch the flow details and draft schema for the flow identified in the previous step using the flow name ."*
 
-    ![Nav](./assets/11175_Excercise6_15.png){ width="500" }
+    ![Nav](./assets/11175_Excercise6_15.png){ width="600" }
 
 - Now, lets explore administrative Write operations scenario 
 
