@@ -135,8 +135,8 @@ In this lab, participants will learn to:
     - **AI engine**: The chosen AI engine is displayed.
     - **AI Transparency**: This setting is used to inform customers that they are interacting with AI before the conversation begins. Please enable the option and add the comment: 
                            "'This call is powered by an AI assistant to help answer your questions faster.'"
-      
-            ![Nav](./assets/Excercise4_15_1.png){ width="700" }
+
+        ![Nav](./assets/Excercise4_14_15_1.png){ width="700" }
       
     - **Welcome message**: The default welcome message that the AI agent uses to start the interaction.
 
@@ -153,13 +153,13 @@ In this lab, participants will learn to:
 
    - Copy and paste these details into the Instructions section.
 
-            ![Nav](./assets/Excercise4_15_2.png){ width="700" }
+      ![Nav](./assets/Excercise4_15_2.png){ width="700" }
 
 - The Instructions section also offers an Optimize Instructions option, which helps create and refine instructions by using AI tools to turn basic ideas or existing text into clear, well-structured prompts.
 
 - Click Optimize Instructions and review the output. If the optimized instructions look better, accept and save the changes.
 
-            ![Nav](./assets/Excercise4_15_3.png){ width="700" }
+      ![Nav](./assets/Excercise4_15_3.png){ width="700" }
   
 - The AI agent also needs a knowledge base to guide customers on vehicles and the ordering process. To set this up, map the AI agent to the knowledge base created previously.
 
