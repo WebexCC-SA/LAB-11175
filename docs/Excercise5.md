@@ -1,5 +1,14 @@
 # Task 4 - AI-Powered Quality Management in Webex Contact Center
 
+Please use the following credentials to connect to Control Hub and configure Webex Contact Center:
+
+| <!-- -->         | <!-- -->         |
+| ---------------- | ---------------- |
+| `Control Hub URL`            | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
+| `Username`       | labuser**ID**@wx1.wbx.ai  _(where **ID** is your assigned pod number; this ID will be provided by your proctor)_ |
+| `Password`       | webexONE1! |
+
+
 ## **Objective**
 
 Consider , You are a supervisor managing a small team of 3 to 4 agents in a customer contact center handling customer escalated calls from the AI Agent. Over the past few weeks, you have noticed a pattern where customers are consistently giving low satisfaction scores after their calls, and complaints are starting to escalate up the chain.
