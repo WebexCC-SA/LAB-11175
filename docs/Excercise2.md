@@ -1,5 +1,13 @@
 # Task 2 - Build Autonomous Webex AI Agent Actions
 
+Please use the following credentials to connect to Control Hub and configure Webex Contact Center:
+
+| <!-- -->         | <!-- -->         |
+| ---------------- | ---------------- |
+| `Control Hub URL`            | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
+| `Username`       | labuser**ID**@wx1.wbx.ai  _(where **ID** is your assigned pod number; this ID will be provided by your proctor)_ |
+| `Password`       | webexONE1! |
+
 
 ## **Objective**
 
@@ -7,7 +15,7 @@ In this lab, audience will learn to explore and set up Autonomous Webex AI Agent
 
 ## **Section 1 : Create a Webex Connect Flow for Car Order**
 
-- Action fulfillment for the agent is always handled via Webex Connect flows. 
+- Action fulfillment for the agent can be handled via Webex Connect flows. 
 
 - Lets begin by creating a Webex Connect flow, which can later be selected to a specific Webex AI action.
 
@@ -154,7 +162,7 @@ Provide orderid after a successful order.
 		As per its instructions, the AI agent requested car details like the model, engine type, and color. 
 		When a detail was missed, the agent was able to ask the user to provide the missing parameter to complete the order. 
 		Once it received all the necessary information, it successfully created the order and provided the order details. 
-		![Nav](./assets/t2s3ap2aa.png){ width="1000" }
+		![Nav](./assets/t2s3ap2aa.1.png){ width="1000" }
 
 - In your case, you will see that the agent is not able to provide the order ID. Specifically asking the agent for the order ID was not helpful either.
 
