@@ -185,7 +185,7 @@ In this lab, participants will learn to:
   
 - The response provided was accurate and consistent with the knowledge base created for this AI agent.
 
-      ![Nav](./assets/Excercise4_20.png){ width="350" }
+      ![Nav](./assets/Excercise4_20.1.png){ width="350" }
 
 - However, the bot's response sounds like a generic FAQ retrieval engine and is not very realistic.
 
