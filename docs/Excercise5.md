@@ -188,7 +188,7 @@ Your organization must have the required AI Quality Management entitlement.
 
 - Enter a clear name and description for the form.
 
-    ![Nav](./assets/1010_Excercise2_18_1.png){ width=700" }
+    ![Nav](./assets/1010_Excercise2_18_1.png){ width=300" }
 
 - Feel free to create your own form with questions of your choice for practise
 
