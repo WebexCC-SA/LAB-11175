@@ -27,7 +27,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 ![Nav](./assets/t4s1p3a.png){ width="800" }
 
-- Search for **'AI Agent Autonomous (Package Tracking)'**, aelect and click **'Next'**, provide a flow name (e.g., '_ai_agent_autonomous_WebecOne<yourname>_'), and click **'Create Flow'**.
+- Search for **'AI Agent Autonomous (Package Tracking)'**, select and click **'Next'**, provide a flow name (e.g., '_ai_agent_autonomous_WebexOne<yourname>_'), and click **'Create Flow'**.
 
 ![Nav](./assets/t4s1p4a.png){ width="800" }
 
@@ -37,7 +37,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 - Also enable the radio button **Enable voice Recording** , this allows conversation between virtual agent and customer to be recorded. 
 
-- Click on the **'QueueContact'** node and select **'WebexOne_LAB11175_Agent_Queue_N'** (where **'N'** is your lab user number).
+- Click on the **'QueueContact'** node and select **'WebexOne_AI_AgentQueue_N'** (where **'N'** is your lab user number).
 
 ![Nav](./assets/t4s1p7a.png){ width="800" }
 
@@ -56,7 +56,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 - Navigate to **'Channels'** menu in the Webex Contact Center configuration.
 
-- Open **WebexOne_LAB11175_EntryPoint_N'** (_where **'N'** is your lab user number)
+- Open **WebexOne_AI_EntryPoint_N'** (_where **'N'** is your lab user number)
 
 ![Nav](./assets/t4s1p10a.png){ width="800" }
 
