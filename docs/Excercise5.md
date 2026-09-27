@@ -57,7 +57,7 @@ Your organization must have the required AI Quality Management entitlement.
     ![Nav](./assets/1010_Excercise2_4.png){ width="700" }
 
 !!! Note
-    As Sentiment Analysis is enabled under Global Settings, Real-time Transcription is also enabled for all queues. As a result, the option will appear enabled but grayed out at the queue level.
+        As Sentiment Analysis is enabled under Global Settings, Real-time Transcription is also enabled for all queues. As a result, the option will appear enabled but grayed out at the queue level.
 
 - Click Save to apply the changes.
 
@@ -129,7 +129,7 @@ Your organization must have the required AI Quality Management entitlement.
 
     ![Nav](./assets/1010_Excercise2_12.png){ width="400" }
 
-  !!! Note
+!!! Note
     To view other call samples, ensure that the selected date range is from Jan 1, 2026, onwards to see various call examples.
 
 - If the Customer Sentiment column is missing, click the Settings icon in the table toolbar, search for "Customer Sentiment," and select it to add it to your view.
