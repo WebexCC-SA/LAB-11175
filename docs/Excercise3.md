@@ -27,7 +27,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 ![Nav](./assets/t4s1p3a.png){ width="800" }
 
-- Search for **'AI Agent Autonomous (Package Tracking)'**, select and click **'Next'**, provide a flow name (e.g., '_ai_agent_autonomous_WebexOne<yourname>_'), and click **'Create Flow'**.
+- Search for **'AI Agent Autonomous (Package Tracking)'**, select and click **'Next'**, provide a flow name (e.g., 'ai_agent_autonomous_WebexOne_yourname'), and click **'Create Flow'**.
 
 ![Nav](./assets/t4s1p4a.png){ width="800" }
 
@@ -48,9 +48,12 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 ![Nav](./assets/t4s1p8a.png){ width="700" }
 
 !!! Note
-	    Instead of Jess as the voice, you can choose different voice options like **'en-US-Maria'** and **'en-US-Henry'**. Supported voice languages for AI agents can be checked via <a href="https://help.webex.com/en-us/article/pdef2d/Supported-languages-and-voices-for-AI-agents" target="_blank">Supported Languages and Voices for AI agents.
+	    Instead of Jess as the voice, you can choose different voice options like **'en-US-Maria'** and **'en-US-Henry'**. 
+		Supported voice languages for AI agents can be checked via <a href="https://help.webex.com/en-us/article/pdef2d/Supported-languages-and-voices-for-AI-agents" target="_blank">Supported Languages and Voices for AI agents.
 
-- Turn Flow Validation **'On'** by clicking the **'Validation'** button at the bottom of the page to publish the flow. Once validation is complete, click **'Publish Flow'** and then **'Publish Flow'** again in the next dialog box (**Latest** version label is selected automatically).
+- Turn Flow Validation **'On'** by clicking the **'Validation'** button at the bottom of the page to publish the flow.
+
+- Once validation is complete, click **'Publish Flow'** and then **'Publish Flow'** again in the next dialog box (**Latest** version label is selected automatically).
 
 ![Nav](./assets/t4s1p9a.png){ width="400" }
 
