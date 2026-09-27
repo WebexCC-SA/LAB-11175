@@ -44,11 +44,13 @@ Your organization must have the required AI Quality Management entitlement.
 
     ![Nav](./assets/1010_Excercise2_2.png){ width="200" }
 
-- Ensure that Sentiment Analysis is turned on under Global Settings. Since we want this setting to apply to all queues, ensure Apply to All Queues is also enabled.
+- Ensure that Sentiment Analysis is turned on under Global Settings.
+  
+- Since we want this setting to apply to all queues, ensure Apply to All Queues is also enabled.
 
     ![Nav](./assets/1010_Excercise2_3.png){ width="700" }
 
-- To confirm the feature is enabled for your specific queue, go to the Queue Level tab, search for and select queue **WebexOne_LAB11175_Agent_Queue_N**, and verify that Sentiment Analysis is enabled.
+- To confirm the feature is enabled for your specific queue, go to the Queue Level tab, search for and select queue **WebexOne_AIQueue_N**, and verify that Sentiment Analysis is enabled.
 
 - On the same queue, confirm that Real-time Transcription is enabled — this is required for the AI engine to analyze interactions and generate sentiment scores.
 
@@ -65,7 +67,7 @@ Your organization must have the required AI Quality Management entitlement.
 
     ![Nav](./assets/1010_Excercise2_5.png){ width="300" }
 
-- Click Manage Flows and search for the flow **ai_agent_autonomous_WebexOne(Name)** setup in the last excercise. 
+- Click Manage Flows and search for the flow **ai_agent_autonomous_WebexOne_Name** setup in the last excercise. 
 
     ![Nav](./assets/1010_Excercise2_6.png){ width="600" }
 
@@ -90,7 +92,7 @@ Your organization must have the required AI Quality Management entitlement.
     ![Nav](./assets/1010_Excercise2_9.1.png){ width="500" }
 
 - Under Interaction Preferance select these options:
-    - For the team use **WebexOne_LAB11175_Agent_Team_N** (where 'N' is your lab user number)'.
+    - For the team use **WebexOne_Team_0N** (where 'N' is your lab user number)'.
     - For the phone number, select **Desktop**
 
 - Ensure the agent status is set to avaialable.
@@ -99,7 +101,9 @@ Your organization must have the required AI Quality Management entitlement.
 
 - Call the channel number (from the steps above), interact with the Webex AI Agent and escalate the call to your agent.
 
-- Accept the call and talk with the proctor. While conversing, observe the conversation being converted into real-time transcripts in the Transcripts gadget
+- Accept the call and interact.
+  
+- While conversing, observe the conversation being converted into real-time transcripts in the Transcripts gadget
 
     ![Nav](./assets/1010_Excercise2_9.3.png){ width="600" }
 
@@ -110,7 +114,9 @@ Your organization must have the required AI Quality Management entitlement.
 
 #### Step 2: View Sentiment Analysis 
 
-- Navigate to Supervisor Desktop using the URL. While using the Chrome browser, open it in Incognito mode
+- Navigate to Supervisor Desktop using the URL.
+  
+- While using the Chrome browser, open it in Incognito mode
     - **https://desktop.wxcc-us1.cisco.com/**
 
 - Log in with the supervisor credentials; these details should have already been provided by the lab proctor.
@@ -124,7 +130,7 @@ Your organization must have the required AI Quality Management entitlement.
     ![Nav](./assets/1010_Excercise2_12.png){ width="400" }
 
   !!! Note
-    To view other call samples, ensure that the selected date range is from May 1, 2026, onwards to see various call examples.
+    To view other call samples, ensure that the selected date range is from Jan 1, 2026, onwards to see various call examples.
 
 - If the Customer Sentiment column is missing, click the Settings icon in the table toolbar, search for "Customer Sentiment," and select it to add it to your view.
 
