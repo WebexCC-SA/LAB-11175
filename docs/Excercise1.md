@@ -136,7 +136,7 @@ In this lab, participants will learn to:
     - **AI Transparency**: This setting is used to inform customers that they are interacting with AI before the conversation begins. Please enable the option and add the comment: 
                            "'This call is powered by an AI assistant to help answer your questions faster.'"
 
-        ![Nav](./assets/Excercise4_14_15_1.png){ width="700" }
+      ![Nav](./assets/Excercise4_15_1.png){ width="700" }
       
     - **Welcome message**: The default welcome message that the AI agent uses to start the interaction.
 
