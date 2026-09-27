@@ -219,7 +219,7 @@ Your organization must have the required AI Quality Management entitlement.
 
 - You can assign the form by queue, team, agent, or every nth interaction. More than one assignment policy can be applied to target the right set of interactions.
 
-- For this lab, assign the form to your designated team **WebexOne_LAB11175_Agent_Team_N** and click Publish to activate the form.
+- For this lab, assign the form to your designated team **WebexOne_Team_N** and click Publish to activate the form.
 
     ![Nav](./assets/1010_Excercise2_21.png){ width=500" }
 
@@ -247,7 +247,7 @@ Your organization must have the required AI Quality Management entitlement.
     ![Nav](./assets/1010_Excercise2_25.png){ width=800" }
 
 !!! Note
-    Ensure that date range selected is from **1st Sept 2026** onwards to see various call examples. 
+    Ensure that date range selected is from **1st Jan 2026** onwards to see various call examples. 
 
 - Go to the Evaluations tab to review the average evaluation score across all forms assigned to that interaction.
 
