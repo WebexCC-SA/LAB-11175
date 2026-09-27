@@ -93,6 +93,8 @@ In this lab, participants will learn to:
 !!! Note
        This is essential information for Cisco TAC team to analyze and troubleshoot any issues that may have caused the upload to fail. 
 
+- Let's create an AI agent. In the navigation pane, select AI Agent Canvas
+
       ![Nav](./assets/Excercise4_9.png){ width="200" }
 
 - On the top right corner click **+ Create Agent**.
@@ -122,9 +124,12 @@ In this lab, participants will learn to:
 
       ![Nav](./assets/Excercise4_14_1.png){ width="600" }
 
-- The Profile tab on the Agent Configuration page, after creation, allows you to change the agent's name or image, the AI engine it uses, and the welcome message displayed when the AI agent is launched.  
+- The Profile tab on the Agent Configuration page, after creation, allows you to change the
+    - agent's name or image
+    - AI engine it uses
+    - Welcome message displayed when the AI agent is launched.  
 
-- These are the fields that control the other aspects of the proile section:
+- These are the fields that control the other aspects of the agent in  proile section:
     - **URL for agent profile image**: The default URL from which the system fetches the AI agent's logo or image.
     - **Time Zone**: Ensure that it is set to America/Los_Angeles.
     - **AI engine**: The chosen AI engine is displayed.
@@ -133,7 +138,9 @@ In this lab, participants will learn to:
             ![Nav](./assets/Excercise4_15_1.png){ width="700" }
     - **Welcome message**: The default welcome message that the AI agent uses to start the interaction.
 
-- Now navigate to the Instructions section. This section tells the AI agent who it is, what steps to follow, what actions it can take, and how to handle customer responses using clear, organized rules.
+- Now navigate to the Instructions section.
+
+- This section tells the AI agent who it is, what steps to follow, what actions it can take, and how to handle customer responses using clear, organized rules.
  
 - For reference, here are the basic instructions you can add for the AI agent to fulfill its goal and task:
     - **Gather Information**: Ask the user for all necessary details required to complete the booking (e.g., pickup/drop-off locations, dates, and vehicle preference) if they haven't provided them already.
