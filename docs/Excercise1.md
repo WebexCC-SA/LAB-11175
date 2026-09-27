@@ -1,5 +1,14 @@
 # Task 1 - Build Autonomous AI Agents with Knowledge Base
 
+Please use the following credentials to connect to Control Hub and configure Webex Contact Center:
+
+| <!-- -->         | <!-- -->         |
+| ---------------- | ---------------- |
+| `Control Hub URL`            | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
+| `Username`       | labuser**ID**@wx1.wbx.ai  _(where **ID** is your assigned pod number; this ID will be provided by your proctor)_ |
+| `Password`       | webexONE1! |
+
+
 **AI Agents Overview**
 
 Cisco Webex AI Agents provide automated assistance to customers before they interact with human agents across voice or digital channels. These agents leverage language understanding and contextual awareness within conversations. Residing within the CPaaS ecosystem, administrators can utilize the Webex AI Agent Studio platform to design, create, manage, and deploy these agents to meet customer service and support needs.
