@@ -80,9 +80,9 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 ![Nav](./assets/t4s1p13a.png){ width="400" }
   
 - Under Interaction Preferance select these options:
-    - For the team use **WebexOne_LAB11175_Agent_Team_N** (where **'N'** is your lab user number)'.
-	- For the Handle Call Using option, select **Dial Number**
- 	- For Dial Number use the extension **2032988248** (This is proctor Number)  	
+    - For the team use **WebexOne_Team_0N** (where **'N'** is your lab user number)'.
+	- For the Handle Call Using option, select **Desktop**
+ 	- Click **Save & Continue**	
 
 -  Ensure the agent status is set to avaialable.
 
@@ -92,7 +92,9 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 - First, the bot may not be able to answer.
 
-- This could be due to the agent's AI engine. If you notice this issue, you can double check the AI engine is mapped to Webex AI Pro-Us 1.0 in the configured AI Agent Profile and test the call again. 
+- This could be due to the agent's AI engine.
+  
+- If you notice this issue, you can double check the AI engine is mapped to Webex AI Pro-Us 2.0 in the configured AI Agent Profile and test the call again. 
 
 ![Nav](./assets/t4s1p15a_1.png){ width="700" }
 
@@ -119,7 +121,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 - Once the call is transferred, the logged-in agent can answer it and view the full transcript of all previous interactions between the customer and the AI agent within the Agent Desktop.
 
-![Nav](./assets/t4s1p17a_2.png){ width="600" }
+![Nav](./assets/t4s1p17a_2.png){ width="700" }
 
 # Result 
 - Congratulations!!! , You have completed this task and the lab!
