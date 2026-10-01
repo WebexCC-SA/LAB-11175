@@ -162,7 +162,7 @@ In this lab, participants will learn to:
     * **Execute Action**: Once the user explicitly confirms the summary, call [action_name] to finalize the booking.
     * **Close the Conversation**: Upon successful booking execution, thank the user for their business, provide any confirmation reference returned by [action_name], and offer a polite goodbye.
 
-   - Copy and paste these details into the Instructions section.
+- Copy and paste these details into the Instructions section.
 
       ![Nav](./assets/Excercise4_15_2.png){ width="700" }
 
@@ -184,13 +184,17 @@ In this lab, participants will learn to:
 
 ## **Section 2 : Test Webex AI Agent**
 
-- Now it's time to test the AI agent. Quick way to check if the agent is constructing and answering queries correctly is to use the Preview option.
+- Now it's time to test the AI agent.
+  
+- Quick way to check if the agent is constructing and answering queries correctly is to use the Preview option.
 
       ![Nav](./assets/Excercise4_18_1.png){ width="300" }
 
-- Click the "Preview" button , a chat window appears in the bottom right corner of the pane where questions can be entered. Choose **Start a chat** option
+- Click the "Preview" button , a chat window appears in the bottom right corner of the pane where questions can be entered.
 
       ![Nav](./assets/Excercise4_18_2.png){ width="300" }
+  
+- Choose **Start a chat** option
 
 - To test in this example, we pose the question **"What warranty comes with the vehicle?"**
   
