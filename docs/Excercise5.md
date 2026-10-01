@@ -30,7 +30,10 @@ Your organization must have the required AI Quality Management entitlement.
 
 **The Challenge:** You have no idea which calls are the problem ones. With dozens of interactions completed each day, you can't review them all manually.
 
-**Task:** Leverage WXCC AI QM feature Configure  Sentiment Analysis for the queues so you can find the negative interactions automatically. Once enabled, you filter the Completed Interactions table to show only calls tagged as Negative (score below -45) and look for patterns . This will help as sentiment filter becomes your radar — it lets you zoom in on the calls that matter and you are not guessing. 
+**Task:** 
+- Leverage WXCC AI QM feature Configure  Sentiment Analysis for the queues so you can find the negative interactions automatically.
+- Once enabled, you filter the Completed Interactions table to show only calls tagged as Negative (score below -45) and look for patterns .
+- This will help as sentiment filter becomes your radar — it lets you zoom in on the calls that matter and you are not guessing. 
 
 #### Step 1: Enable Sentiment Analysis
 
