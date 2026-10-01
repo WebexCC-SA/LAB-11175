@@ -117,10 +117,13 @@ Your organization must have the required AI Quality Management entitlement.
 
 #### Step 2: View Sentiment Analysis 
 
+!!! Note 
+    To review call sentiment analysis, users must log in using an agent account with the Supervisor role. At this stage, please contact the proctor to obtain the supervisor login details
+
 - Navigate to Supervisor Desktop using the URL.
+      - **https://desktop.wxcc-us1.cisco.com/**
   
 - While using the Chrome browser, open it in Incognito mode
-    - **https://desktop.wxcc-us1.cisco.com/**
 
 - Log in with the supervisor credentials; these details should have already been provided by the lab proctor.
 
