@@ -110,7 +110,7 @@ You will integrate the MCP server into Webex Contact Center, connecting it to th
 
     ![Nav](./assets/1010_Excercise1_14.png){ width="600" }
 
-- Open your AI Agent **CiscoLive_MCPAIAgent_number***. Your instructor will provide you with the specific AI Agent to use.
+- Open your AI Agent **WebexOne_YourName*** created in Lab1.
 
 - Navigate to Actions, and click Add Action, then select Select Available.
 
@@ -129,4 +129,4 @@ You will integrate the MCP server into Webex Contact Center, connecting it to th
 
 
 # Result
-- Congratulations! The integration is now live. Customers can check their car order status through the AI agent at any time, and a clear escalation path is in place for interactions that need a human touch. With this foundation in place, Part 2 of this lab introduces AI Quality Management tools to monitor, evaluate, and improve the quality of live agent interactions when customers escalate with a problem.
+- Congratulations! The integration is now live. Customers can check their car order status through the AI agent at any time.
