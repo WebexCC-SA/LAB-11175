@@ -157,7 +157,11 @@ Your organization must have the required AI Quality Management entitlement.
 
 **The Challenge:** You've identified the frustrated calls, but you need to understand why they went badly.
 
-**Task:** You create an Evaluation Form with sections for Customer Order Evaluation, Professional Conduct and Conclusion, and set up assignment rules to automatically apply it to interactions in your team. You review the AI-generated scores alongside speech analytics signals  turning vague frustration into hard evidence. Now instead of telling an agent that customers seem unhappy, you have specific scores and interaction data to back up the conversation.
+**Task:** 
+
+- You create an Evaluation Form with sections for Customer Order Evaluation, Professional Conduct and Conclusion, and set up assignment rules to automatically apply it to interactions in your team.
+- You review the AI-generated scores alongside speech analytics signals  turning vague frustration into hard evidence.
+- Now instead of telling an agent that customers seem unhappy, you have specific scores and interaction data to back up the conversation.
 
 #### Step 1: Enable Evaluations and Speech Analytics
 
@@ -180,7 +184,9 @@ Your organization must have the required AI Quality Management entitlement.
 
 #### Step 2: Create an Evaluation Form
 
-- An Evaluation Form defines how interactions are scored. It includes basic details, assignment rules, sections, and questions that can be auto-evaluated.
+- An Evaluation Form defines how interactions are scored.
+  
+- It includes basic details, assignment rules, sections, and questions that can be auto-evaluated.
 
 - Navigate to Supervisor Desktop as performed in Module 1 
 
