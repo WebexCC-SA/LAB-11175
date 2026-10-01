@@ -37,7 +37,7 @@ Your organization must have the required AI Quality Management entitlement.
 
 #### Step 1: Enable Sentiment Analysis
 
-- Sign in to Control Hub using the URL **https://admin.webex.com** with the administrator credentials provided in the table above.
+- Sign in to Control Hub using the URL <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> with the administrator credentials provided in the table above.
 
 - Navigate to Services > Contact Center.
 
@@ -95,7 +95,7 @@ Your organization must have the required AI Quality Management entitlement.
     ![Nav](./assets/1010_Excercise2_9.1.png){ width="500" }
 
 - Under Interaction Preferance select these options:
-    - For the team use **WebexOne_Team_0N** (where 'N' is your lab user number)'.
+    - For the team use **WebexOne_Team_N** (where 'N' is your lab user number)'.
     - For the phone number, select **Desktop**
 
 - Ensure the agent status is set to avaialable.
