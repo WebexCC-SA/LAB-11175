@@ -37,7 +37,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 
 - Also enable the radio button **Enable voice Recording** , this allows conversation between virtual agent and customer to be recorded. 
 
-- Click on the **'QueueContact'** node and select **'WebexOne_AI_AgentQueue_N'** (where **'N'** is your lab user number).
+- Click on the **'QueueContact'** node and select **'WebexOne_AI_Queue_N'** (where **'N'** is your lab user number).
 
 ![Nav](./assets/t4s1p7a.png){ width="800" }
 
@@ -80,7 +80,7 @@ This exercise will also provide an opportunity to experience the AI Assistant fe
 ![Nav](./assets/t4s1p13a.png){ width="400" }
   
 - Under Interaction Preferance select these options:
-    - For the team use **WebexOne_Team_0N** (where **'N'** is your lab user number)'.
+    - For the team use **WebexOne_Team_N** (where **'N'** is your lab user number)'.
 	- For the Handle Call Using option, select **Desktop**
  	- Click **Save & Continue**	
 
