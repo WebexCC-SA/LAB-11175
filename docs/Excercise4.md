@@ -1,5 +1,13 @@
 # Task 5 - Connect WxCC to External MCP Servers
 
+Please use the following credentials to connect to Control Hub and configure Webex Contact Center:
+
+| <!-- -->         | <!-- -->         |
+| ---------------- | ---------------- |
+| `Control Hub URL`            | <a href="https://admin.webex.com" target="_blank">https://admin.webex.com</a> |
+| `Username`       | labuser**ID**@wx1.wbx.ai  _(where **ID** is your assigned pod number; this ID will be provided by your proctor)_ |
+| `Password`       | webexONE1! |
+
 ## **Objective**
 
 You are an administrator for a business that sells cars online. The business has built an MCP server integrated with its customer car ordering system, and your task is to connect it to Webex Contact Center. Once integrated, customers will be able to chat with an AI agent to check their order status at any time. If they have further questions that the AI agent cannot resolve, they can call in and escalate to a live agent for additional clarification.
