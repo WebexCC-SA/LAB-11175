@@ -165,6 +165,10 @@ Your organization must have the required AI Quality Management entitlement.
 
 #### Step 1: Enable Evaluations and Speech Analytics
 
+!!! Note
+    This option is available only in licensed organizations and is not visible in trial organizations (including this lab tenant). Please refer to the screenshot provided for visual reference.
+    Review the screenshot and proceed directly to Step 2—there is no need to return to Control Hub. These steps are included as a reference for your production deployment
+
 - Sign in to Control Hub using the URL **https://admin.webex.com** with the administrator credentials provided in the table above.
 
 - Navigate to Services > Contact Center.
@@ -178,9 +182,6 @@ Your organization must have the required AI Quality Management entitlement.
 - Ensure that **Coaching Insights** & **Evalautions and Speech analytics** is turned on under Global Settings.
 
     ![Nav](./assets/1010_Excercise2_15.png){ width="650" }
-
-!!! Note
-    This option you will be able to see only in licensed org , In trial org this option is not visible hence not seen here , Screen shot reflects the information. 
 
 #### Step 2: Create an Evaluation Form
 
