@@ -127,9 +127,7 @@ Your organization must have the required AI Quality Management entitlement.
 
 - Log in with the supervisor credentials; these details should have already been provided by the lab proctor.
 
-- When prompted, select Supervisor as your role, choose the Extension option, enter **1011 or any 4-digit** extension, or desktop option and click Save and Continue.
-
-    ![Nav](./assets/1010_Excercise2_11.1.png){ width="400" }
+- When prompted, select Supervisor as your role, choose desktop option and click Save and Continue.
 
 - In the Completed Interactions table, you can view the calls accepted by agents.
 
