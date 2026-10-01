@@ -43,7 +43,7 @@ In this lab, participants will learn to:
 
 - Since the task is to create autonomous AI agents that are capable of answering questions from a knowledge base, the first step would be to build that knowledge base.
 
-- Sign in to Control Hub using the URL **https://admin.webex.com**
+- Sign in to Control Hub using the URL [https://admin.webex.com](https://admin.webex.com)
 
 - Use the credentials highlighted in the table.
 
@@ -121,7 +121,7 @@ In this lab, participants will learn to:
 - On the 'Add the essential details' specify the following details:
     - **Agent name**: Enter the name of the AI agent susch as **WebexOne_YourName**
     - **System ID**: A system-generated unique identifier. This field is editable.
-    - **AI engine**: Select the required AI engine from the drop-down list , Recommendation is **Webex AI Pro-US 2.0**  (default its Webex AI Pro 2.0 ).
+    - **AI engine**: Select the required AI engine from the drop-down list , Recommendation is **Webex AI Pro-US 2.0**.
     - Click Create button at the bottom of the screen.
 
       ![Nav](./assets/Excercise4_13_1.png){ width="500" }
@@ -131,7 +131,7 @@ In this lab, participants will learn to:
   
 - The autonomous AI agent for answering questions is successfully created and is now available on the Dashboard.
 
-      ![Nav](./assets/Excercise4_14_1.png){ width="600" }
+      ![Nav](./assets/Excercise4_14_1_0.png){ width="600" }
 
 - The Profile tab on the Agent Configuration page, after creation, allows you to change the
     - agent's name or image
@@ -143,7 +143,7 @@ In this lab, participants will learn to:
     - **Time Zone**: Ensure that it is set to America/Los_Angeles.
     - **AI engine**: The chosen AI engine is displayed.
     - **AI Transparency**: This setting is used to inform customers that they are interacting with AI before the conversation begins. Please enable the option and add the comment: 
-                           "'This call is powered by an AI assistant to help answer your questions faster.'"
+                           **'This call is powered by an AI assistant to help answer your questions faster.'**
 
       ![Nav](./assets/Excercise4_15_1.png){ width="700" }
       
@@ -154,11 +154,13 @@ In this lab, participants will learn to:
 - This section tells the AI agent who it is, what steps to follow, what actions it can take, and how to handle customer responses using clear, organized rules.
  
 - For reference, here are the basic instructions you can add for the AI agent to fulfill its goal and task:
-    - **Gather Information**: Ask the user for all necessary details required to complete the booking (e.g., pickup/drop-off locations, dates, and vehicle preference) if they haven't provided them already.
-    - **Summarize & Confirm**: Before triggering the booking action, clearly summarize all booking details back to the user and ask: "Does this look correct to you?"
-    - **Handle Edits**: If the user corrects any information during confirmation, update the details and re-confirm before proceeding.
-    - **Execute Action**: Once the user explicitly confirms the summary, call [action_name] to finalize the booking.
-    - **Close the Conversation**: Upon successful booking execution, thank the user for their business, provide any confirmation reference returned by [action_name], and offer a polite goodbye.
+
+    #### Agent Purpose and Responsibilities
+    * **Gather Information**: Ask the user for all necessary details required to complete the booking (e.g., pickup/drop-off locations, dates, and vehicle preference) if they haven't provided them already.
+    * **Summarize & Confirm**: Before triggering the booking action, clearly summarize all booking details back to the user and ask: "Does this look correct to you?"
+    * **Handle Edits**: If the user corrects any information during confirmation, update the details and re-confirm before proceeding.
+    * **Execute Action**: Once the user explicitly confirms the summary, call [action_name] to finalize the booking.
+    * **Close the Conversation**: Upon successful booking execution, thank the user for their business, provide any confirmation reference returned by [action_name], and offer a polite goodbye.
 
    - Copy and paste these details into the Instructions section.
 
