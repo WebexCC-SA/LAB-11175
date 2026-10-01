@@ -123,7 +123,8 @@ You will integrate the MCP server into Webex Contact Center, connecting it to th
 - Publish the changes.
 
 - Test the MCP connections directly from the Chat by clicking the preview option  and confirm the order status by stating
-  **Hi, Can ya let me know the status of Order ID 4**
+  
+- **Hi, Can ya let me know the status of Order ID <your orderID placed durin lab 2 or 3>**
 
     ![Nav](./assets/1010_Excercise1_17.png){ width="800" }
 
