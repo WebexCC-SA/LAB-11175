@@ -117,9 +117,6 @@ Your organization must have the required AI Quality Management entitlement.
 
 #### Step 2: View Sentiment Analysis 
 
-!!! Note 
-    To review call sentiment analysis, users must log in using an agent account with the Supervisor role. At this stage, please contact the proctor to obtain the supervisor login details
-
 !!! Danger "REQUIRED ACTION"
     ### <span style="font-size: 1.2em; color: #d9534f;">To review call sentiment analysis:</span>
 
