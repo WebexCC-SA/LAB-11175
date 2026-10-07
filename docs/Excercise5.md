@@ -120,6 +120,13 @@ Your organization must have the required AI Quality Management entitlement.
 !!! Note 
     To review call sentiment analysis, users must log in using an agent account with the Supervisor role. At this stage, please contact the proctor to obtain the supervisor login details
 
+!!! Danger "REQUIRED ACTION"
+    ### <span style="font-size: 1.2em; color: #d9534f;">To review call sentiment analysis:</span>
+
+    **Users must log in using an agent account with the Supervisor role.** 
+    
+    At this stage, **please contact the proctor to obtain the supervisor login details**.
+
 - Navigate to Supervisor Desktop using the URL.
       - **https://desktop.wxcc-us1.cisco.com/**
   
