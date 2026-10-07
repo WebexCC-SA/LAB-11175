@@ -31,6 +31,13 @@ To ensure the WxCC Tenant can be enabled for this feature and that the feature c
 
 You will integrate the MCP server into Webex Contact Center, connecting it to the car ordering system. Once the integration is in place, the AI agent will be able to handle order status queries by pulling live data directly from the ordering system. You will then validate the full experience by testing the end-to-end customer journey — starting from a chat with the AI agent, escalating the call, and finally being connected to a live agent who can continue the conversation.
 
+!!! Danger "REQUIRED ACTION"
+    ### <span style="font-size: 1.2em; color: #d9534f;">To review call sentiment analysis:</span>
+
+    **Users must log in using an agent account with the Administrator role.** 
+    
+    At this stage, **please contact the proctor to obtain the Administrator login details**.
+    
 ### **Steps to Configure:**
 
 #### **Step 1: Create Agentic App in Webex Developer Portal.**
