@@ -238,9 +238,9 @@ Your organization must have the required AI Quality Management entitlement.
 
 - For this lab, assign the form to your designated team **WebexOne_Team_N** and click Publish to activate the form.
 
-    ![Nav](./assets/1010_Excercise2_21.png){ width=500" }
+    ![Nav](./assets/1010_Excercise2_21_1.png){ width=500" }
 
-- Make a couple of test calls, ensure the agent is logged in and available to pick up the calls. 
+- Make a couple of test calls, ensure the supervisor is logged in and available to pick up the calls. 
 
 - Use different customer sentiment scenarios to generate interaction data for the evaluation form to score against.
 
