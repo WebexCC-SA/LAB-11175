@@ -13,13 +13,13 @@ Please use the following credentials to connect to Control Hub and configure Web
 
 In this module, you will step into the role of a Contact Center Solutions Architect and integrate AI developer tooling directly into operational and administrative workflows by completing the following tasks:  
 
-1. Explore the Developer Portal: Review the available Webex Contact Center platform MCP servers—specifically the Contact Center MCP Server (for administrative and flow authoring tasks) and the Contact Center Operation MCP Server (for operational intelligence and telemetry) and learn how these servers connect to various AI clients.  
+1. **Explore the Developer Portal:** Review the available Webex Contact Center platform MCP servers—specifically the Contact Center MCP Server (for administrative and flow authoring tasks) and the Contact Center Operation MCP Server (for operational intelligence and telemetry) and learn how these servers connect to various AI clients.  
 
-2. Enable Tools in Control Hub: Integrate your lab organization with the WxCC MCP servers through Control Hub and enable the appropriate tools for AI client execution. 
+2. **Enable Tools in Control Hub:** Integrate your lab organization with the WxCC MCP servers through Control Hub and enable the appropriate tools for AI client execution. 
 
-3. Connect Your AI Client: Connect your AI client to WxCC using Webex Agentic platform credentials through Webex Token Integration (WCIT).  
+3. **Connect Your AI Client:** Connect your AI client to WxCC using Webex Agentic platform credentials through Webex Token Integration (WCIT).  
 
-4. Execute Operations & Troubleshoot: Run natural language read queries across org settings, operational telemetry, and flows. Then, perform a deterministic write operation on a flow draft and resolve real-world access and payload validation errors embedded within the lab environment.
+4. **Execute Operations & Troubleshoot:** Run natural language read queries across org settings, operational telemetry, and flows. Then, perform a deterministic write operation on a flow draft and resolve real-world access and payload validation errors embedded within the lab environment.
 
 
 ## Section 1: Explore the Developer Portal
