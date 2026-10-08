@@ -141,7 +141,7 @@ Follow these step-by-step instructions to generate a Webex Client Identity Token
 
 - Now, lets Integrate the Contact Center MCP Server in Cursor
 
-- Return to the Cursor integration page on the Webex Developer Portal by navigationg to Documentation > AI in Webex > Connect Webex MCP Servers to External Clients > Cursor.
+- Return to the Cursor integration page on the Webex Developer Portal by navigating to Documentation > AI in Webex > Connect Webex MCP Servers to External Clients > Cursor.
 
 - In the **Install** section, enter the following details:
 
@@ -244,8 +244,6 @@ In this final section, you will run natural language queries across the MCP serv
 
 !!! Note
 	**Do not confirm or execute this update.** This step is designed to demonstrate how AI clients handle write operations—requiring explicit human confirmation before committing any administrative changes to the live tenant.
-
-??????????????Add the complete Reference Video As well ?????????????????
 
 ## Result
 Congratulations! You have successfully completed this lab. Throughout this module, you learned how to navigate Webex Contact Center MCP servers in the Developer Portal, review organizational and tool authorizations in Control Hub, connect the Cursor AI client using WCIT token authentication, and use natural language to query operational telemetry, inspect routing flows, and execute safe administrative write requests.
